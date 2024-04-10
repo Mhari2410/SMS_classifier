@@ -27,7 +27,7 @@ Potential enhancements to the project include:
 - Exploring advanced NLP models or ensemble methods to handle complex text data more effectively.
 
 ## Credits
-This project was developed by [Your Name]. If you have any questions or suggestions, feel free to contact me at [Your Email].
+This project was developed by Haripriya R. If you have any questions or suggestions, feel free to contact me at rharipriya234@gmail.com.
 
 ---
 
